@@ -1,4 +1,4 @@
-window.B = (function(R, $A){
+window.Bolt = (function(R, $A){
 
     return function(c, details){
         
